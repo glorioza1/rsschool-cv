@@ -15,4 +15,4 @@ console.log("Hello, World!").
     *No working experience* 
  7. # Education
     *Philological education*    
- 8. # B2-C1 level of English   
+ 8. # B2-C1 level of English    
